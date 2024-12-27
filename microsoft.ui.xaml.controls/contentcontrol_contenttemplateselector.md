@@ -14,7 +14,7 @@ Gets or sets a selection object that changes the [DataTemplate](../microsoft.ui.
 
 ## -xaml-syntax
 ```xaml
-<contentControl ContentTemplateSelector="selectorReference" />
+<ContentControl ContentTemplateSelector="selectorReference" />
 
 ```
 
