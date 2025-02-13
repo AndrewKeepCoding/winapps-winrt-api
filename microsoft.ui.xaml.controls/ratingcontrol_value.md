@@ -16,7 +16,7 @@ Gets or sets the rating value.
 
 ## -property-value
 
-The rating value. The default is **null**.
+The rating value. The default is -1.
 
 
 ## -remarks
@@ -31,7 +31,7 @@ The rating value. The default is **null**.
 ## -xaml-syntax
 
 ```xaml
-<RatingControl Value="double"/>
+<RatingControl Value="double" />
 ```
 
 
